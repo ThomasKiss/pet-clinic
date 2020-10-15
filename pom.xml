@@ -40,6 +40,8 @@
     </build>
 
     <scm>
+        <connection>https://github.com/ThomasKiss/pet-clinic.git</connection>
+        <url>https://github.com/ThomasKiss/pet-clinic</url>
         <developerConnection>scm:git:https://github.com/ThomasKiss/pet-clinic.git</developerConnection>
     </scm>
 
